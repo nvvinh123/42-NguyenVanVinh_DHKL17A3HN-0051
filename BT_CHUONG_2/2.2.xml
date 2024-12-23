@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<danh_sach_sv>
+    <sinh_vien>
+        <ma_sv ="1">
+            <ho_ten>Nguyễn Văn A</ho_ten>
+            <nam_sinh>2005</nam_sinh>
+            <lop>DHKL17A3HN</lop>
+            <gioi_tinh>Nam</gioi_tinh>
+        </ma_sv>
+        <ma_sv ="2">
+            <ho_ten>Nguyễn Thị B</ho_ten>
+            <nam_sinh>2005</nam_sinh>
+            <lop>DHKL17A3HN</lop>
+            <gioi_tinh>Nữ</gioi_tinh>
+        </ma_sv>
+    </sinh_vien>
+</danh_sach_sv>

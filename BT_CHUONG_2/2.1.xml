@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cong_ty>
+    <giam_doc>
+        <ho_ten>Nguyễn Văn A</ho_ten>
+        <sdt>0901234567</sdt>
+        <ma_thue>00000001</ma_thue>
+        <dia_chi>
+            <thanh_pho>Hà Nội</thanh_pho>
+            <quan>HBT</quan>
+            <phuong>Vĩnh Tuy</phuong>
+            <pho>Minh Khai</pho>
+        </dia_chi>
+    </giam_doc>
+</cong_ty>
