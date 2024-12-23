@@ -1,0 +1,1 @@
+#np.where(ser % 3 == 0)
